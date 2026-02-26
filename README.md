@@ -6,7 +6,7 @@ Pipeline automatizado de coleta, transformação e armazenamento de dados meteor
 
 ## 🎯 Objetivo
 
-Construir um pipeline ETL completo que:
+Construi um pipeline ETL completo que:
 
 - **Extrai** dados meteorológicos de Votuporanga via API
 - **Transforma** e padroniza os dados coletados
@@ -163,3 +163,4 @@ pip install -e .
 
 **Mateus Vicentin**
 [github.com/mateusvicentin](https://github.com/mateusvicentin)
+
